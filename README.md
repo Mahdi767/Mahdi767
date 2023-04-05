@@ -1,4 +1,4 @@
-##  Assalamualikum, I'm Mahdi Hasan
+###  Assalamualikum,&#129505; I'm Mahdi Hasan
 
 - 🌱 I’m currently learning C,C++,Python. 
 - 📫 How to reach me: mehedi49891@gmail.com 
@@ -9,5 +9,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi767)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahdi767&show_icons=true&count_private=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Mahdi767)  
 
 ![Profile views](https://gpvc.arturio.dev/Mahdi767)  
