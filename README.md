@@ -14,11 +14,9 @@
 <a href="https://github.com/Mahdi767" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="20">
 </a> 
-
 <a href="https://www.facebook.com/Mahdi767" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" height="18">
 </a> 
-
 <a href="https://www.youtube.com/channel/Islamic_shortd330" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" height="18">
 </a> 
@@ -28,7 +26,7 @@
 ## 🌟 **Competitive Programming Profiles**
 
 <a href="https://codeforces.com/profile/Mahdi_99_Hasan" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Codeforces_logo.svg" alt="Codeforces" height="30">
+    <img src="https://en.wikipedia.org/wiki/Codeforces#/media/File:Codeforces's_new_logo.png" alt="Codeforces" height="30">
 </a>
 <span style="margin-left: 10px;">Mahdi_99_Hasan</span>
 
