@@ -17,15 +17,15 @@
   <a href="https://www.facebook.com/Mahdi767" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40">
   </a>
-  <a href="https://www.youtube.com/@Mahdi_757" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40">
-  </a>
+  <a href="https://www.instagram.com/mahdi_hasan_767/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40">
+</a>
   <a href="https://codeforces.com/profile/Mahdi_99_Hasan" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40">
   </a>
-  <a href="https://www.codechef.com/users/mahdihasan598" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40">
-  </a>
+ <a href="https://x.com/Mehedi_59_hasan" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/x.svg" alt="X (Twitter)" height="30" width="40">
+</a>
   <a href="mailto:mehedi49891@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="40">
   </a>
