@@ -7,9 +7,13 @@
 ---
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=3E64FF&width=550&lines=Turning+Ideas+into+Code;Engineer+of+Elegant+Solutions;Exploring+the+Universe+of+Programming;Lover+of+Logic+and+Innovation" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=FF5733&width=550&lines=Turning+Ideas+into+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=28A745&width=550&lines=Engineer+of+Elegant+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=3498DB&width=550&lines=Exploring+the+Universe+of+Programming" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=9B59B6&width=550&lines=Lover+of+Logic+and+Innovation" alt="Typing SVG" />
   </a>
 </div>
+
 
 <img align="right" src="https://user-images.githubusercontent.com/83503353/242234419-5d36dc36-c6a7-46c4-8447-80ebc0cfb962.gif" width="25%">
 📞 Get in touch:
