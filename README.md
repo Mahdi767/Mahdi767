@@ -1,42 +1,35 @@
 # **Assalamualaikum 👋, I'm Mahdi Hasan**
 
-Welcome to my GitHub profile! I'm a **passionate competitive programmer**, aspiring developer, and an advocate for continuous learning. I enjoy solving logical and mathematical problems and working on meaningful projects.
-
 ---
 
 ## 📫 **Connect with Me**
 
-You can reach me via email or on my social platforms:  
-[![Email](https://img.shields.io/badge/Email-mehedi49891%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehedi49891@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-Mahdi767-181717?style=for-the-badge&logo=github)](https://github.com/Mahdi767)  
-[![Facebook](https://img.shields.io/badge/Facebook-Mahdi767-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Mahdi767)  
-[![YouTube](https://img.shields.io/badge/YouTube-IslamicShorts-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/Islamic_shortd330)
+<a href="mailto:mehedi49891@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="40">
+</a>
+<a href="https://github.com/Mahdi767" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40">
+</a>
+<a href="https://www.facebook.com/Mahdi767" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" height="40">
+</a>
+<a href="https://www.youtube.com/channel/Islamic_shortd330" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" height="40">
+</a>
 
 ---
 
 ## 🌟 **Competitive Programming Profiles**
 
-### **Codeforces**  
 <a href="https://codeforces.com/profile/Mahdi_99_Hasan" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces Profile" height="30" width="40">
-</a>  
-> **Handle**: [Mahdi_99_Hasan](https://codeforces.com/profile/Mahdi_99_Hasan)
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="Codeforces" height="40">
+</a>
+<span style="font-size: 16px;">**Codeforces Handle**: [Mahdi_99_Hasan](https://codeforces.com/profile/Mahdi_99_Hasan)</span>
 
-#### **Codeforces Stats**:  
-![Codeforces Light Card](https://raw.githubusercontent.com/your-Mahdi767/cf-stats/main/output/light_card.svg#gh-dark-mode-only)  
-![Codeforces Light Card](https://raw.githubusercontent.com/your-Mahdi767/cf-stats/main/output/light_card.svg)  
-
-#### **Rating Trend**:
-![Max Rating](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/max_rating.svg)  
-![Current Rating](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg)  
-
----
-
-### **CodeChef**  
 <a href="https://www.codechef.com/users/mahdihasan598" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="CodeChef Profile" height="30" width="40">
-</a>  
-> **Handle**: [mahdihasan598](https://www.codechef.com/users/mahdihasan598)
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="CodeChef" height="40">
+</a>
+<span style="font-size: 16px;">**CodeChef Handle**: [mahdihasan598](https://www.codechef.com/users/mahdihasan598)</span>
 
 ---
 
@@ -58,7 +51,8 @@ You can reach me via email or on my social platforms:
 
 ---
 
-### **✨ About Me**
+## ✨ **About Me**
+
 - 🌱 Currently learning advanced concepts in **C++** and improving my competitive programming skills.  
 - 💻 Exploring **algorithms**, **data structures**, and **problem-solving techniques**.  
 - 📖 Open to collaborations on **open-source** or competitive programming projects.  
