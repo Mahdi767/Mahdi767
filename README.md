@@ -7,6 +7,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi767&exclude_repo=repo1,repo2)](https://github.com/anuraghazra/github-readme-stats)
 
+  </a>
+    <a href="https://codeforces.com/profile/mahdi-hasan" target="blank" style="display: inline-block; margin-right: 10px;">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/ramim-ahmed" height="30" width="40" />
+    </a>
 
 ![](https://raw.githubusercontent.com/your-Mahdi767/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/your-Mahdi767/cf-stats/main/output/light_card.svg) 
