@@ -12,7 +12,6 @@
 </div>
 
 <img align="right" src="https://user-images.githubusercontent.com/83503353/242234419-5d36dc36-c6a7-46c4-8447-80ebc0cfb962.gif" width="25%">
----
 📞 Get in touch:
 <p>
   <a href="https://www.facebook.com/Mahdi767" target="_blank">
@@ -35,8 +34,6 @@
   </a>
 </p>
 
-
----
 ### 👨‍💻 Programming Languages:
 <p align="left">
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c.svg" alt="C" height="50" width="50">
@@ -57,7 +54,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahdi767&layout=compact&theme=tokyonight" height="180px">
 </p>
 
----
 
 ### 🏆 GitHub Trophies:
 <p align="center">
