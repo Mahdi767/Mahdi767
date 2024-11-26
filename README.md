@@ -8,7 +8,7 @@
 
 ## 📫 **Connect with Me**
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mahdi767)  [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([mehedi49891@gmail.com](https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg)) 
+[![Facebook Badge](https://commons.wikimedia.org/wiki/File:Facebook_Logo_2023.png)](https://www.facebook.com/mahdi767)  [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([mehedi49891@gmail.com](https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg)) 
 
 ---
 
