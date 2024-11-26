@@ -13,7 +13,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/83503353/242234419-5d36dc36-c6a7-46c4-8447-80ebc0cfb962.gif" width="25%">
 ---
-### 📞 Get in touch:
+📞 Get in touch:
 <p>
   <a href="https://www.facebook.com/Mahdi767" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40">
