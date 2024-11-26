@@ -7,7 +7,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi767&exclude_repo=repo1,repo2)](https://github.com/anuraghazra/github-readme-stats)
 
-Competitive Programming profile
 
 ![](https://raw.githubusercontent.com/your-Mahdi767/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/your-Mahdi767/cf-stats/main/output/light_card.svg)
