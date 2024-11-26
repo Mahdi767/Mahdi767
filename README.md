@@ -9,19 +9,18 @@
 ## 📫 **Connect with Me**
 
 <a href="mailto:mehedi49891@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="20">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="18">
 </a>  
-
 <a href="https://github.com/Mahdi767" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="20">
 </a> 
 
 <a href="https://www.facebook.com/Mahdi767" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" height="20">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" height="18">
 </a> 
 
 <a href="https://www.youtube.com/channel/Islamic_shortd330" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" height="20">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" height="18">
 </a> 
 
 ---
@@ -29,12 +28,17 @@
 ## 🌟 **Competitive Programming Profiles**
 
 <a href="https://codeforces.com/profile/Mahdi_99_Hasan" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="Codeforces" height="20">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Codeforces_logo.svg" alt="Codeforces" height="30">
 </a>
+<span style="margin-left: 10px;">Mahdi_99_Hasan</span>
+
+<br>
 
 <a href="https://www.codechef.com/users/mahdihasan598" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="CodeChef" height="20">
-</a>  
+    <img src="https://cdn.codechef.com/sites/all/themes/abessive/images/logo.png" alt="CodeChef" height="30">
+</a>
+<span style="margin-left: 10px;">mahdihasan598</span>
+ 
 
 ---
 
