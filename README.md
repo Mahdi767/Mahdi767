@@ -1,49 +1,67 @@
-# **Assalamualaikum 👋, I'm Mahdi Hasan**
+<h3 align="center">السلام عليكم ورحمة الله وبركاته</h3>
+
+<div align="center">
+  <h2>Welcome to my Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
+</div>
 
 ---
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=3E64FF&width=550&lines=Turning+Ideas+into+Code;Engineer+of+Elegant+Solutions;Exploring+the+Universe+of+Programming;Lover+of+Logic+and+Innovation" alt="Typing SVG">
+  </a>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=1F75FE&width=700&lines=Welcome+to+my+GitHub+profile!+;I'm+a+%E2%9A%99%EF%B8%8F+passionate+competitive+programmer;Aspiring+developer+and+advocate+for+continuous+learning.;I+enjoy+solving+logical+and+mathematical+problems.;Working+on+meaningful+projects!)](https://github.com/Mahdi767)
-
+<img align="right" src="https://user-images.githubusercontent.com/83503353/242234419-5d36dc36-c6a7-46c4-8447-80ebc0cfb962.gif" width="25%">
 ---
-
-## 📫 **Connect with Me**
-
-[![Facebook Badge](https://commons.wikimedia.org/wiki/File:Facebook_Logo_2023.png)](https://www.facebook.com/mahdi767)  [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([mehedi49891@gmail.com](https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg)) 
-
----
-
-
-## 🌟 Competitive Programming Profiles
-
-- **Codeforces**  
-  [![Codeforces](https://upload.wikimedia.org/wikipedia/commons/1/19/Codeforces_logo.svg)](https://codeforces.com/profile/Mahdi_99_Hasan) Mahdi_99_Hasan  
-
-- **CodeChef**  
-  [![CodeChef](https://cdn.codechef.com/sites/all/themes/abessive/images/logo.png)](https://www.codechef.com/users/mahdihasan598) mahdihasan598  
-
- 
-
----
-
-## 📊 **GitHub Stats**
-
-### **Top Languages**  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi767&layout=compact&langs_count=6&hide=html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-### **Profile Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahdi767&show_icons=true&count_private=true&theme=radical)
-
-### **Contribution Streak**  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Mahdi767&theme=radical)
-
----
+### 📞 Get in touch:
+<p>
+  <a href="https://www.facebook.com/Mahdi767" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40">
+  </a>
+  <a href="https://www.youtube.com/@Mahdi_757" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40">
+  </a>
+  <a href="https://codeforces.com/profile/Mahdi_99_Hasan" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40">
+  </a>
+  <a href="https://www.codechef.com/users/mahdihasan598" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40">
+  </a>
+  <a href="mailto:mehedi49891@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="40">
+  </a>
+  <a href="https://github.com/Mahdi767" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" alt="GitHub" height="30" width="40">
+  </a>
+</p>
 
 
 ---
+### 👨‍💻 Programming Languages:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c.svg" alt="C" height="50" width="50">
+  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%2B%2B.svg" alt="C++" height="50" width="50">
 
-## ✨ **About Me**
+## 📊 GitHub Stats:
 
-- 🌱 Currently learning advanced concepts in **C++** and improving my competitive programming skills.  
-- 💻 Exploring **algorithms**, **data structures**, and **problem-solving techniques**.  
-- 📖 Open to collaborations on **open-source** or competitive programming projects.  
-- 💬 Feel free to reach out for discussions or mentoring!
+<div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mahdi767&theme=github_dark" width="33%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mahdi767&theme=github_dark" width="33%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mahdi767&theme=github_dark&utcOffset=8" width="33%">
+</div>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Mahdi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mahdi767&show_icons=true&theme=tokyonight" height="180px">
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahdi767&layout=compact&theme=tokyonight" height="180px">
+</p>
+
+---
+
+### 🏆 GitHub Trophies:
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Mahdi767&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Mahdi's Trophies">
+  </a>
+</p>
