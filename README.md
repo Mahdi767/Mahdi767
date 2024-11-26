@@ -7,10 +7,10 @@
 ---
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=FF5733&width=550&lines=Turning+Ideas+into+Code" alt="Typing SVG" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=28A745&width=550&lines=Engineer+of+Elegant+Solutions" alt="Typing SVG" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=3498DB&width=550&lines=Exploring+the+Universe+of+Programming" alt="Typing SVG" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=9B59B6&width=550&lines=Lover+of+Logic+and+Innovation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=FF5733&width=550&lines=Turning+Ideas+into+Code+💡" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=28A745&width=550&lines=Engineer+of+Elegant+Solutions+🛠️" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=3498DB&width=550&lines=Exploring+the+Universe+of+Programming+🌌" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=9B59B6&width=550&lines=Lover+of+Logic+and+Innovation+✨" alt="Typing SVG" />
   </a>
 </div>
 
