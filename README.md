@@ -23,19 +23,15 @@
 
 ---
 
-## 🌟 **Competitive Programming Profiles**
 
-<a href="https://codeforces.com/profile/Mahdi_99_Hasan" target="_blank">
-    <img src="https://en.wikipedia.org/wiki/Codeforces#/media/File:Codeforces's_new_logo.png" alt="Codeforces" height="30">
-</a>
-<span style="margin-left: 10px;">Mahdi_99_Hasan</span>
+## 🌟 Competitive Programming Profiles
 
-<br>
+- **Codeforces**  
+  [![Codeforces](https://upload.wikimedia.org/wikipedia/commons/1/19/Codeforces_logo.svg)](https://codeforces.com/profile/Mahdi_99_Hasan) Mahdi_99_Hasan  
 
-<a href="https://www.codechef.com/users/mahdihasan598" target="_blank">
-    <img src="https://cdn.codechef.com/sites/all/themes/abessive/images/logo.png" alt="CodeChef" height="30">
-</a>
-<span style="margin-left: 10px;">mahdihasan598</span>
+- **CodeChef**  
+  [![CodeChef](https://cdn.codechef.com/sites/all/themes/abessive/images/logo.png)](https://www.codechef.com/users/mahdihasan598) mahdihasan598  
+
  
 
 ---
