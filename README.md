@@ -9,7 +9,8 @@
 
 Competitive Programming profile
 
-[![Codeforces Stats](https://codeforces-stats-api.herokuapp.com/user/Mahdi_99_Hasan)](https://codeforces.com/profile/Mahdi_99_Hasan)
+![](https://raw.githubusercontent.com/your-Mahdi767/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/your-Mahdi767/cf-stats/main/output/light_card.svg)
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahdi767&show_icons=true&count_private=true)  
