@@ -14,7 +14,7 @@
 
 
 
-<img align="right" src="https://user-images.githubusercontent.com/83503353/242234419-5d36dc36-c6a7-46c4-8447-80ebc0cfb962.gif" width="25%">
+
 
 📞 Get in touch:
 
