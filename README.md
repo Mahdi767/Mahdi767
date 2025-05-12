@@ -37,17 +37,6 @@
 </p>
 
 ### 👨‍💻 Programming Languages:
-<style>
-  .tech-icon {
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-  }
-
-  .tech-icon:hover {
-    transform: scale(1.2);
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
-  }
-</style>
-
 <table>
   <tr>
     <td align="center">
