@@ -19,11 +19,6 @@
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40">
       </a>
     </td>
-        <td style="padding: 10px; background-color: #f0f0f0; border-radius: 10px;">
-      <a href="https://x.com/Mahdi_767_hasan" target="_blank">
-        <img src="https://x.com/X/photo" alt="X" height="30" width="40">
-      </a>
-    </td>
     <td style="padding: 10px; background-color: #f0f0f0; border-radius: 10px;">
       <a href="mailto:mehedi49891@gmail.com" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="40">
