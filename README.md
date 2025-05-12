@@ -5,11 +5,10 @@
 </div>
 
 ---
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=FF0000&width=550&lines=Turning+Ideas+into+Code+💡;Engineer+of+Elegant+Solutions+🛠️;Exploring+Programming+Universe+🌐;Lover+of+Logic+and+Innovation+✨">
-  </a>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=FF0000&width=550&lines=Turning+Ideas+into+Code+💡;Engineer+of+Elegant+Solutions+🛠️;Exploring+Programming+Universe+🌐;Lover+of+Logic+and+Innovation+✨" alt="Typing SVG">
+</p>
+
 
 
 
