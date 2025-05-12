@@ -29,11 +29,6 @@
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40">
       </a>
     </td>
-    <td style="padding: 10px; background-color: #f0f0f0; border-radius: 10px;">
-      <a href="https://github.com/Mahdi767" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" alt="GitHub" height="30" width="40">
-      </a>
-    </td>
   </tr>
 </table>
 
