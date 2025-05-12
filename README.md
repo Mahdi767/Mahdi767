@@ -7,7 +7,6 @@
 
 
 📞 Get in touch:
-
 <table align="center">
   <tr>
     <td align="center" style="padding: 10px; background-color: #3b5998; border-radius: 10px;">
@@ -27,7 +26,19 @@
     </td>
   </tr>
   <tr>
-    <td align="center" style="padding: 10px; background-color: #1F8AC4; border-radius: 10
+    <td align="center" style="padding: 10px; background-color: #1F8AC4; border-radius: 10px;">
+      <a href="https://codeforces.com/profile/Mahdi_99_Hasan" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40">
+      </a>
+    </td>
+    <td align="center" style="padding: 10px; background-color: #333; border-radius: 10px;">
+      <a href="https://github.com/Mahdi767" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" alt="GitHub" height="30" width="40">
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 
