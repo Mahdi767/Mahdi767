@@ -9,33 +9,34 @@
 📞 Get in touch:
 <table>
   <tr>
-    <td style="padding: 10px; background-color: #3b5998; border-radius: 10px;">
+    <td style="padding: 10px; background-color: #f0f0f0; border-radius: 10px;">
       <a href="https://www.facebook.com/Mahdi767" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40">
       </a>
     </td>
-    <td style="padding: 10px; background-color: #C13584; border-radius: 10px;">
+    <td style="padding: 10px; background-color: #f0f0f0; border-radius: 10px;">
       <a href="https://www.instagram.com/mahdi_hasan_767/" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40">
       </a>
     </td>
-    <td style="padding: 10px; background-color: #DB4437; border-radius: 10px;">
+    <td style="padding: 10px; background-color: #f0f0f0; border-radius: 10px;">
       <a href="mailto:mehedi49891@gmail.com" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="40">
       </a>
     </td>
-    <td style="padding: 10px; background-color: #1F8AC4; border-radius: 10px;">
+    <td style="padding: 10px; background-color: #f0f0f0; border-radius: 10px;">
       <a href="https://codeforces.com/profile/Mahdi_99_Hasan" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40">
       </a>
     </td>
-    <td style="padding: 10px; background-color: #333; border-radius: 10px;">
+    <td style="padding: 10px; background-color: #f0f0f0; border-radius: 10px;">
       <a href="https://github.com/Mahdi767" target="_blank">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" alt="GitHub" height="30" width="40">
       </a>
     </td>
   </tr>
 </table>
+
 
 
 
