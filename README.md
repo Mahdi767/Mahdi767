@@ -8,23 +8,27 @@
 
 📞 Get in touch:
 
-<p>
-  <a href="https://www.facebook.com/Mahdi767" target="_blank" style="margin-right: 10px; background-color: #3b5998; padding: 5px; border-radius: 5px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40">
-  </a>
-  <a href="https://www.instagram.com/mahdi_hasan_767/" target="_blank" style="margin-right: 10px; background-color: #C13584; padding: 5px; border-radius: 5px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40">
-  </a>
-  <a href="mailto:mehedi49891@gmail.com" target="_blank" style="margin-right: 10px; background-color: #DB4437; padding: 5px; border-radius: 5px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="40">
-  </a>
-  <a href="https://codeforces.com/profile/Mahdi_99_Hasan" target="_blank" style="margin-right: 10px; background-color: #1F8AC4; padding: 5px; border-radius: 5px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40">
-  </a>
-  <a href="https://github.com/Mahdi767" target="_blank" style="background-color: #333; padding: 5px; border-radius: 5px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" alt="GitHub" height="30" width="40">
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" style="padding: 10px; background-color: #3b5998; border-radius: 10px;">
+      <a href="https://www.facebook.com/Mahdi767" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40">
+      </a>
+    </td>
+    <td align="center" style="padding: 10px; background-color: #C13584; border-radius: 10px;">
+      <a href="https://www.instagram.com/mahdi_hasan_767/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40">
+      </a>
+    </td>
+    <td align="center" style="padding: 10px; background-color: #DB4437; border-radius: 10px;">
+      <a href="mailto:mehedi49891@gmail.com" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="40">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 10px; background-color: #1F8AC4; border-radius: 10
+
 
 
 ### 👨‍💻 Programming Languages:
