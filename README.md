@@ -4,16 +4,7 @@
   <h2>Welcome to my Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
 </div>
 
----
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=FF0000&width=550&lines=Turning+Ideas+into+Code+💡;Engineer+of+Elegant+Solutions+🛠️;Exploring+Programming+Universe+🌐;Lover+of+Logic+and+Innovation+✨" alt="Typing SVG">
-</p>
-
-
-
-
-
-
+--
 
 📞 Get in touch:
 
