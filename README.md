@@ -102,7 +102,7 @@
 
 
 <summary><h3>📊 Coding Stats</h3> (click to open)</summary>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=samiunblack&theme=github-dark" alt="github stats"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=Mahdi767&theme=github-dark" alt="github stats"/>
 
 
 ### 🏆 GitHub Trophies:
