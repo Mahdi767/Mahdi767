@@ -100,9 +100,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahdi767&layout=compact&theme=tokyonight" height="180px">
 </p>
 
+<details>
+  <summary><h3>📊 Coding Stats</h3> (click to open)</summary>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mahdi767&theme=github-dark" alt="GitHub Streak Stats" />
+</details>
 
-<summary><h3>📊 Coding Stats</h3> (click to open)</summary>
-<img src="http://github-readme-streak-stats.herokuapp.com?username=Mahdi767&theme=github-dark" alt="github stats"/>
 
 
 ### 🏆 GitHub Trophies:
