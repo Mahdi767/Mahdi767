@@ -1,14 +1,15 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mahdi%20Hasan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mahdi%20Hasan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CSE%20Student%20%7C%20Backend%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;React+%2B+Django+REST+Framework;Building+Clean+%26+Scalable+Apps;Open+to+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=CSE+Student+%F0%9F%8E%93;Backend+Developer+%7C+Django+%26+DRF+%F0%9F%90%8D;Building+Scalable+APIs+%F0%9F%9A%80;Exploring+AI%2FML+%F0%9F%A4%96;Open+to+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
 
 <br/>
 
 <!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-hasan-mehedi-83b18432a/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/Mahdi767)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mahdi_hasan_767/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehedi49891@gmail.com)
@@ -20,6 +21,16 @@
 </div>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 👨‍💻 About Me
+
+- 🎓 **CSE Student** passionate about software development
+- 🔧 **Backend Developer** focused on **Django** and **Django REST Framework**
+- 🌐 Interested in building **scalable APIs** and integrating modern frontend technologies
+- 🤖 Exploring the world of **Artificial Intelligence & Machine Learning**
+- 💡 Always eager to learn new technologies and collaborate on exciting projects
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -37,8 +48,9 @@
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 🚀 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Django REST](https://img.shields.io/badge/Django%20REST-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🗄️ Databases
@@ -48,6 +60,7 @@
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -75,6 +88,24 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mahdi767&theme=github_dark" width="32%">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mahdi767&theme=github_dark" width="32%">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mahdi767&theme=github_dark&utcOffset=6" width="32%">
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🌱 Currently Learning
+
+- ⚙️ **Advanced Django REST APIs** — authentication, permissions, and optimization
+- ⚛️ **React integration with DRF** — building full-stack applications
+- 🤖 **Machine Learning basics** — exploring algorithms and data science fundamentals
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🤝 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-hasan-mehedi-83b18432a/)
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
