@@ -1,115 +1,60 @@
+<div align="center">
 
+# Mahdi Hasan
+
+**Full-Stack Developer**
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/Mahdi767)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mahdi_hasan_767/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mehedi49891@gmail.com)
+
+</div>
+
+---
+
+## Tech Stack
+
+### Languages
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+
+### Frameworks & Tools
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Django REST Framework](https://img.shields.io/badge/DRF-092E20?style=flat-square&logo=django&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <h2>Welcome to my Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mahdi767&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahdi767&layout=compact&theme=tokyonight&hide_border=true" height="165">
+
 </div>
 
+<div align="center">
 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Mahdi767&theme=tokyonight&hide_border=true" height="165">
 
-📞 Get in touch:
-<table>
-  <tr>
-    <td style="padding: 10px; background-color: #f0f0f0; border-radius: 10px;">
-      <a href="https://www.facebook.com/Mahdi767" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" style="border-radius: 50%;">
-      </a>
-    </td>
-    <td style="padding: 10px; background-color: #f0f0f0; border-radius: 10px;">
-      <a href="https://www.instagram.com/mahdi_hasan_767/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" style="border-radius: 50%;">
-      </a>
-    </td>
-    <td style="padding: 10px; background-color: #f0f0f0; border-radius: 10px;">
-      <a href="mailto:mehedi49891@gmail.com" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="40" style="border-radius: 50%;">
-      </a>
-    </td>
-<!--     <td style="padding: 10px; background-color: #f0f0f0; border-radius: 10px;">
-      <a href="https://codeforces.com/profile/Mahdi_99_Hasan" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" style="border-radius: 50%;">
-      </a>
-    </td> -->
-
-  </tr>
-</table>
-
-
-
-
-
-
-
-### 👨‍💻 Programming Languages:
-<table>
-  <tr>
-    <td align="center">
-      <!-- HTML -->
-      <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="50" width="50"><br>HTML
-    </td>
-    <td align="center">
-      <!-- CSS -->
-      <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="50" width="50"><br>CSS
-    </td>
-    <td align="center">
-      <!-- Tailwind CSS -->
-      <img class="tech-icon" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" height="50" width="50"><br>Tailwind
-    </td>
-    <td align="center">
-      <!-- JavaScript -->
-      <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" width="50"><br>JavaScript
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <!-- C -->
-      <img class="tech-icon" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c.svg" alt="C" height="50" width="50"><br>C
-    </td>
-    <td align="center">
-      <!-- C++ -->
-      <img class="tech-icon" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%2B%2B.svg" alt="C++" height="50" width="50"><br>C++
-    </td>
-    <td align="center">
-      <!-- Java -->
-      <img class="tech-icon" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/java.svg" alt="Java" height="50" width="50"><br>Java
-    </td>
-    <td align="center">
-      <!-- Python -->
-      <img class="tech-icon" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg" alt="Python" height="50" width="50"><br>Python
-    </td>
-  </tr>
-</table>
-
-
-
-
-
-
-
-## 📊 GitHub Stats:
-
-<div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mahdi767&theme=github_dark" width="33%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mahdi767&theme=github_dark" width="33%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mahdi767&theme=github_dark&utcOffset=8" width="33%">
 </div>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Mahdi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mahdi767&show_icons=true&theme=tokyonight" height="180px">
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahdi767&layout=compact&theme=tokyonight" height="180px">
-</p>
+<div align="center">
 
-<details>
-  <summary><h3>📊 Coding Stats</h3> (click to open)</summary>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mahdi767&theme=github-dark" alt="GitHub Streak Stats" />
-</details>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mahdi767&theme=github_dark" width="32%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mahdi767&theme=github_dark" width="32%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mahdi767&theme=github_dark&utcOffset=6" width="32%">
 
+</div>
 
+---
 
-### 🏆 GitHub Trophies:
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mahdi767&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Mahdi's Trophies">
-  </a>
-</p>
+<div align="center">
+<sub>Building things that matter.</sub>
+</div>
